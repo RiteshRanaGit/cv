@@ -1,0 +1,30 @@
+
+        body{
+            background-color:rgb(168, 248, 248);
+        }
+        hr {
+            
+            border-color: rgb(34, 196, 169);
+            border-width: 5px;
+            display: block;
+            border-style: dotted none none;
+           
+            width: 5%;
+
+
+            }
+        h1 {
+            color: rgb(64, 156, 168);
+        }
+        h3{
+            color:  rgb(64, 156, 168);
+        }
+        textarea{
+            background-color: rgb(100, 245, 245);
+        }
+        input{
+            background-color: rgb(100, 245, 245);
+        }
+        input[type=Submit ]{
+            background-color: rgb(42, 143, 143);
+        }
