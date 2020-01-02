@@ -65,6 +65,11 @@
              border-collapse: collapse;
              border-color: rgb(64, 156, 168);
              background-color:rgb(184, 247, 255);
+             width: 100%;
+            
+        }
+        .first-table{
+            width: 100%;
         }
 /****************      image    ********/
 #image{
@@ -75,8 +80,6 @@
 .name{
     text-align: right;
 }
-.first-table{
-    width: 100%;
-}
+
        
        
