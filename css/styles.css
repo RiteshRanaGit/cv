@@ -60,7 +60,7 @@
         }
 /*********************table******************************************/
         
-        table[border='2']{
+        .second-table{
              color: rgb(64, 156, 168);
              border-collapse: collapse;
              border-color: rgb(64, 156, 168);
@@ -70,6 +70,10 @@
         }
         .first-table{
             width: 100%;
+        }
+        .second-table:hover{
+                background-color:rgb(250, 242, 129) ;
+
         }
 /****************      image    ********/
 #image{
