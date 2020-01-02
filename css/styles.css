@@ -1,7 +1,8 @@
-
+/*********************body******************************************/
         body{
-            background-color:rgb(168, 248, 248);
+            background-color:rgb(208, 253, 253);
         }
+/*********************tags hr a******************************************/
         hr {
             
             border-color: rgb(34, 196, 169);
@@ -19,12 +20,63 @@
         h3{
             color:  rgb(64, 156, 168);
         }
+        h4{
+            color:  rgb(64, 156, 168);
+        }
+        a{
+            color:rgb(40, 58, 138);
+        }
+        .close{
+            border-color: rgb(34, 196, 169);
+            display: block;
+            border-style: inset;
+            border-collapse: collapse;
+            width: 100%;
+        } /**********   for hr class=close       **********?
+/*********************lable textarea input ******************************************/
+        label{
+            color:rgb(64, 156, 168);
+        }
         textarea{
+            
             background-color: rgb(100, 245, 245);
         }
         input{
+           
             background-color: rgb(100, 245, 245);
         }
         input[type=Submit ]{
             background-color: rgb(42, 143, 143);
         }
+/*********************ul ol strong******************************************/
+        ul{
+            color: rgb(66, 212, 205);
+        }
+        ol{
+            color: rgb(66, 212, 205);
+        }
+        strong{
+            color: rgb(64, 156, 168);
+        }
+/*********************table******************************************/
+        
+        table[border='2']{
+             color: rgb(64, 156, 168);
+             border-collapse: collapse;
+             border-color: rgb(64, 156, 168);
+             background-color:rgb(184, 247, 255);
+        }
+/****************      image    ********/
+#image{
+    
+    border-radius: 100%;
+
+}
+.name{
+    text-align: right;
+}
+.first-table{
+    width: 100%;
+}
+       
+       
