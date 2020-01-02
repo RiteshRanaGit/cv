@@ -26,6 +26,9 @@
         a{
             color:rgb(40, 58, 138);
         }
+        a:hover{
+            color:rgb(201, 33, 164)
+        }
         .close{
             border-color: rgb(34, 196, 169);
             display: block;
@@ -66,6 +69,8 @@
              border-color: rgb(64, 156, 168);
              background-color:rgb(184, 247, 255);
              width: 100%;
+             
+
             
         }
         .first-table{
@@ -74,6 +79,12 @@
         .second-table:hover{
                 background-color:rgb(250, 242, 129) ;
 
+        }
+        td{
+            text-align: left;
+        }
+        th{
+            text-align: left;
         }
 /****************      image    ********/
 #image{
@@ -84,6 +95,7 @@
 .name{
     text-align: right;
 }
+
 
        
        
